@@ -1,0 +1,123 @@
+/*admin页面样式*/
+#admin_index_left{
+	width: 220px;
+	height: 500px;
+	float: left;
+
+	background: #F2F2F2;
+	margin-left: 20px;
+}
+
+
+#admin_index_left ul li{
+	text-align: center;
+
+
+}
+
+#admin_index_left tr td{
+	text-align: center;
+	font-size: 14px;
+	color:#104E8B;
+}
+
+.circle {
+border-radius: 50%;
+width: 100px;
+height:100px; 
+background: #CCC;
+margin-left:60px;
+/* 宽度和高度需要相等 */
+}
+
+.circle1 {
+width: 760px;
+height: 60px; 
+float: left;
+margin-left: 300px;
+margin-top: -80px;
+}
+
+.alert{
+	width: 1255px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+.copyright{
+	width: 219px;
+	height: 20px;
+	margin-top: 85px;
+	text-align: center;
+}
+
+.admin_index_right{
+	width: 940px;
+	float: left;
+	margin-left: 100px;
+}
+
+.admin_index_right_table1{
+	width: 460px;
+	height: 500px;
+	border: 1px solid red;
+	float: left;
+
+}
+.admin_index_right_table2{
+	width: 460px;
+	height: 500px;
+	border: 1px solid red;
+	float: left;
+	margin-left: 18px;
+}
+.pagination{
+  margin-left: 350px;
+}
+/*admin页面样式========end=========*/
+
+
+
+/*admin_addmovie页面样式=========start=======*/
+.admin_addmovie{
+		width: 400px;
+		height: 800px;
+		margin: -0px auto;
+}
+.admin_addmovie div{
+		margin-top: 10px;
+}
+
+.admin_addmovie-submit {
+	margin-left: 160px;
+}
+
+/*admin_addmovie页面样式=========end=======*/
+
+
+/*admin_movie_modify_img页面样式=========start=======*/
+
+.admin_movie_modify{
+		width: 400px;
+		height: 700px;
+		margin: 0px auto;
+		
+}
+.admin_movie_modify div{
+	margin-bottom: 5px;
+}
+.admin_movie_modify_img {
+		margin: 0px auto;
+		width: 102px;
+}
+
+/*admin_movie_modify_img页面样式=========end=======*/
+
+
+
+/*admin_movie_information页面样式=========end=======*/
+.admin_movie_information{
+	padding-bottom: 70px;
+}
+/*admin_movie_information页面样式=========end=======*/
+

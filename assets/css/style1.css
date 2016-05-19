@@ -1,0 +1,192 @@
+
+
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei UI", "Microsoft YaHei", SimHei, "\5B8B\4F53", simsun, sans-serif;
+	
+}
+
+.zhuceyemian span{
+color: red;
+}
+
+.zhuceyemian{
+margin: 10px auto 0px auto;
+}
+
+.zhuceyemian caption{
+text-align: center;
+color: #262626;
+}
+
+.zhuceyemian td {
+text-align: center;
+font-size: 16px;
+}
+
+.zhuceyemian  tr td {
+padding: 6px;
+}
+
+.register{
+	margin-left: 350px;
+	margin-top: 10px;
+}
+
+.login{
+	margin-top: 10px;
+}
+
+
+/*自定义首页内容页面的大小*/
+#content{
+	margin: 0px 60px 0px 60px;
+}
+
+.rexyannav{
+	background-color: white;
+}
+
+/*自定义首页内容页面右部排序*/
+.sort h4{
+	text-align: center;
+	padding-bottom: 30px;
+}
+/*冲掉bt原来蓝色背景*/
+#sidebar{
+	background: white;
+}
+
+
+
+
+
+
+/*doadmin 页面样式*/
+
+#doadmin{
+	background: url('../../images/doadmin/doadmin1.jpg') repeat-x 0 center ;
+}
+
+#doadmin  td {
+text-align: center;
+font-size: 20px;
+}
+
+.doadmin{
+	
+	width: 300px;
+	margin-top: 10px;
+}
+
+.doadmindaxiao{
+	
+	width: 310px;
+	margin: 80px auto;
+}
+
+.doadmindaxiao h3{
+	text-align: center;
+}
+
+.doadminlogin{
+	margin-left: 110px;
+}
+/*doadmin 页面样式*/
+
+
+
+/*此部分为调整首页动态轮播图边界为白色*/
+.carousel-control.left{
+	background-image: none;
+}
+
+.carousel-control.right{
+	background-image: none;
+}
+
+.carousel .item{
+	background: white;
+}
+
+#carousel-example-generic{
+	margin-top:-10px;          /*让其轮播图距离导航之间有一定的距离*/
+}
+/*此部分为调整首页动态轮播图边界为白色*/
+
+
+
+/*调整底部footer让其与上面大小一致*/
+._footer{
+	width: 1000px;
+	margin:70px auto;
+}
+/*调整底部footer让其与上面大小一致*/
+
+
+
+/*调整首页最新电影之间的上下距离*/
+.margin_top{
+	margin-top: 30px;
+}
+/*调整首页最新电影之间的上下距离*/
+
+
+
+/*调整首页内容页面底部你看到我的小尾巴了*/
+.content_bottom_more{
+	text-align: center;
+	line-height: 60px;
+}
+/*调整首页内容页面底部你看到我的小尾巴了*/
+
+
+
+/*电影栏目分类*/
+.movie_type{
+	margin-left: 50px;
+}
+
+.movie_type a{
+	text-decoration: none;
+}
+/*电影栏目分类*/
+
+
+
+
+/*登录框样式*/
+.loginpage{
+	width: 300px;
+	margin: 100px auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.loginpage div{
+	margin-top: 10px;
+}
+.radio{
+		margin: 10px 15%;
+}
+.loginstate{
+	margin-left: 90px;	
+}
+/*登录框样式*/
+
+
+
+/*注册框样式*/
+.registerpage{
+	width: 400px;
+	margin: 60px auto;
+}
+
+.registerpage div{
+	margin-top: 10px;
+}
+
+.registerstate{
+	margin-left: 110px;
+}
+/*注册框样式*/
+
+
