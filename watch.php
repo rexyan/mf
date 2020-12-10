@@ -38,7 +38,7 @@ require  PATH.'\include\common.inc.php';
     <meta name="author" content="">
     <link rel="icon" href="images/ico.ico">
     <title>MF电影网</title>
-     <meta itemprop="name" content="MF电影网 | 最新免费电影"/><meta name="description" itemprop="description" content="MF电影网，一个简单及时的电影网站。最新电影,热门电影,最新电视剧,电影下载,电影在线播放,电影爱好者聚集地，一个不用下载播放器的电影网站" /><meta name="keywords" content="MF电影网,电影网站,电影播放,电影下载,最新电影,热门电影,在线观看,MF,闫润沙" />
+     <meta itemprop="name" content="MF电影网 | 最新免费电影"/><meta name="description" itemprop="description" content="MF电影网，一个简单及时的电影网站。最新电影,热门电影,最新电视剧,电影下载,电影在线播放,电影爱好者聚集地，一个不用下载播放器的电影网站" /><meta name="keywords" content="MF电影网,电影网站,电影播放,电影下载,最新电影,热门电影,在线观看,MF" />
   <?php
     //require  PATH.'\include\css.inc.php';
   ?>
